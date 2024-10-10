@@ -64,13 +64,13 @@ select {
   background-size: cover;
 }
 
-.t {
-  background: url("images/trees.png") no-repeat center;
+.h {
+  background: url("images/hills.png") no-repeat center;
   background-size: cover;
 }
 
-.b {
-  background: url("images/bush.png") no-repeat center;
+.t {
+  background: url("images/tree.png") no-repeat center;
   background-size: cover;
 }
 
